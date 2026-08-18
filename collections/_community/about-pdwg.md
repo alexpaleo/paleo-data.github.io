@@ -3,7 +3,7 @@ title: About PDWG
 description: This page describes what the Paleo Data Working Group is, who is involved, and how you can get involved.
 status: published
 contributors: [Erica Krimmel, Talia Karim, Lindsay Walker]
-last_modified_at: 2026-02-19
+last_modified_at: 2026-08-18
 ---
 
 This website is brought to you by the Paleo Data Working Group (PDWG, pronounced "pidwig"), which is a community of practice centered around collections-based paleo and informatics professionals. PDWG was launched in May 2020 as a driving force for broader conversations about paleontological data standards and integration of fossil data into larger data ecosystems. We formed as a result of a decade of increasing collaboration between paleontology professionals digitizing their collections, including as part of an earlier [Paleo Digitization Working Group](https://www.idigbio.org/wiki/index.php/Paleo_Digitization_Working_Group) hosted by iDigBio. Current activities include regular "[happy hour](/community/pdwg-happy-hours)" meetings, [workshops](/community/events), community outreach, and engagement with parallel groups and processes. We also maintain a community pipeline for carrying conversation through to documentation and guidelines, such as the content curated in this knowledge hub.
@@ -56,7 +56,8 @@ Since 2020, PDWG has engaged close to 200 individuals from over 50 institutions.
 | Smithsonian National Museum of Natural History (NMNH) | [Alex Lawrence](https://orcid.org/0009-0004-7918-4208) (Organizing Team), [Holly Little](https://orcid.org/0000-0001-7909-4166) (Organizing Team), [Adam Mansur](https://orcid.org/0000-0002-7512-4206) (Knowledge Hub Editorial Board), Matt Miller, [Amanda Millhouse](https://orcid.org/0000-0002-8679-4774), [Jessie Nakano](https://orcid.org/0000-0002-7652-3663) |
 | Stanford University (LSJU) | [Chrissy Garcia](https://orcid.org/0000-0002-9728-3670) |
 | University of Colorado Museum of Natural History (CUMNH) | [Talia Karim](https://orcid.org/0000-0001-6514-963X) (Organizing Team) |
-| University of Kansas Natural History Museum & Biodiversity Institute |  [Natalia López Carranza](https://orcid.org/0000-0002-1393-2902), [Lindsay Walker](https://orcid.org/0000-0002-2162-6593) (Knowledge Hub Editorial Board, Paleo Data Portal Steering Committee) |
+| University of Kansas Natural History Museum & Biodiversity Institute |  [Natalia López Carranza](https://orcid.org/0000-0002-1393-2902) |
+| University of Kentucky |  [Lindsay Walker](https://orcid.org/0000-0002-2162-6593) (Knowledge Hub Editorial Board, Paleo Data Portal Steering Committee) |
 | University of St. Thomas, St. Paul, MN | [Thomas Hickson](https://orcid.org/0000-0002-7878-3565) |
 | University of Wisconsin Geology Museum (UWGM) | [Carrie Eaton](https://orcid.org/0000-0001-6647-1751) |
 | Yale Peabody Museum (YPM) | [Jessica Utrup](https://orcid.org/0000-0001-5201-8235) |
